@@ -1,0 +1,13 @@
+TOPIC----
+	|
+	|
+	|
+	|
+	--Formula{
+		-ID: unique id to identify each formula inside code
+		-tags: keywords to integrate formula into chapters/courses
+		+name: user level identifier
+		+formula: actual formula
+		+docstring: details on how to use the method(parameters,and other details)
+		-status:whether included in current syllabus or not
+	}
