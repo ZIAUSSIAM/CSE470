@@ -16,3 +16,6 @@ pip-selfcheck.json
 *.xml
 venv/Lib/site-packages/easy-install.pth
 venv/share/man/man1/isympy.1
+.idea/codeStyles/Project.xml
+.idea/workspace.xml
+venv/Lib/site-packages/easy-install.pth
