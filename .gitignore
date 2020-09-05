@@ -13,3 +13,6 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+*.xml
+venv/Lib/site-packages/easy-install.pth
+venv/share/man/man1/isympy.1
