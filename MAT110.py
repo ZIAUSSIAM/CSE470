@@ -10,7 +10,7 @@ class MAT110:
     NAME = 'MAT110'
     TAGS = []
 
-    # TODO: make each method here identifiable so we can switch its status
+    # TODO: make each method here identifiable so we can switch its status.
 
     def __init__(self, expr, variable, point=None):
         transformations = (standard_transformations +
